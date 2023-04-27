@@ -1,2 +1,4 @@
 # Snake-Game
-Just a single Snake Game haha. 
+Just a simgle Snake Game haha. 
+
+made by: Talo (alphaotuken)
